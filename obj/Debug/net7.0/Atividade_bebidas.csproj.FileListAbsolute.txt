@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\bin\Debug\net7.0\Atividade_bebidas.exe
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\bin\Debug\net7.0\Atividade_bebidas.deps.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\bin\Debug\net7.0\Atividade_bebidas.runtimeconfig.json
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\bin\Debug\net7.0\Atividade_bebidas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\bin\Debug\net7.0\Atividade_bebidas.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\refint\Atividade_bebidas.dll
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.pdb
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\Atividade_bebidas.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\Back_End_First\Atividade_bebidas\obj\Debug\net7.0\ref\Atividade_bebidas.dll
